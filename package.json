@@ -1,0 +1,16 @@
+{
+  "name": "elm-simple-ports-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Woo",
+  "license": "MIT",
+  "dependencies": {
+    "elm-simple-loader": "^0.1.0",
+    "rx": "^3.1.2",
+    "webpack": "^1.12.2"
+  }
+}
